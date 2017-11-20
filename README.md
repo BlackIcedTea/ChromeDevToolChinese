@@ -6,7 +6,7 @@ resources.pak  -  汉化文件,覆盖即可使用.
 -
 pack.7z  -  pak解包文件已翻译.
 -
-拆解包工具.exe  -  pak拆解包工具,使用方法如下.
+dumpPAK.exe  -  pak解包工具,使用方法如下.
 -
   1.解包 - 将pak文件拖到exe上就行. 
   -
